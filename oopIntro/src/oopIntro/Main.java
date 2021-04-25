@@ -14,7 +14,7 @@ public class Main {
 		product2.id = 2;
 		product2.productName = "Silgi";
 		product2.unitPrice = 500;
-		product2.productDescription = "Silgi idare eder";
+		product2.productDescription = "Silgi güzel deðil ama idare eder";
 		
 		Product product3 = new Product();
 		product3.id = 3;
